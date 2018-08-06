@@ -14,7 +14,7 @@ class songs:
 # p1.myfunc()				
 song = songs("BATTLE SYMPHONY", "CHESTER BENNINGTON" , 'abc' , 'cde' , 'efg' ,'sss')
 # print("\n")
-
+print("Hello world")
 print("song name is ", song.songname)
 print("singer ", song.singer)
 
